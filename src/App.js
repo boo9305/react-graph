@@ -7,6 +7,7 @@ function App() {
     <div className="App">
         <MyGraph id="g1" width="300" height="300"></MyGraph>
         <MyGraph id="g2" width="700" height="300"></MyGraph>
+        Test
     </div>
   );
 }
